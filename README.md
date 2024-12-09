@@ -5,6 +5,6 @@
 
 
 
-- 🔭 I’m currently working on sharpen my git hub
+- 🔭 I’m currently working on sharpen my git hub.
 - 🌱 I’m currently learning Git Hub
 
